@@ -2,6 +2,8 @@
 
 ![Tracker Display](assets/1Tracker%20Display.jpg)
 
+## Project Motivation & Overview
+
 At Happy Life Solution, a herbal wellness brand with growing operations in Nigeria, keeping track of delivery activities across different states is essential. As the logistics coordinator for Rivers State, I’ve been close to the day-to-day operational pain points — scattered updates, missed remittance tracking, and limited insights into delivery activities.
 
 I saw an opportunity to bring structure and clarity through data.
