@@ -51,7 +51,7 @@ The dashboard covers:
 ![Home & Menu](assets/2Home%20&%20Menu.jpg)
 
 ## The Impact
-1. Faster decisions: Team leads now access critical delivery and remittance insights in under a minute — no digging through files.
+1. Faster decisions: Team leads now access delivery and remittance insights in under a minute — no digging through files.
 2. Improved accountability: Agents know their performance is visible and measurable, which promotes reliability.
 3. Greater trust in data: With centralized reporting, we’ve reduced communication gaps and improved collaboration.
 
@@ -62,12 +62,12 @@ The dashboard covers:
 * Custom-built pop-out navigation system
 
 ## What This Reflects
-To me, data is not just numbers — it’s a tool to solve problems. This dashboard was not about showcasing fancy visuals; it was about building a real solution that helps a real business move smarter.
+To me, data goes beyond numbers — it’s a tool to solve problems. This mobile business dashboard was about building a real solution that helps a real business move smarter.
 
 Whether for managers, delivery agents, or finance teams, the goal was clarity, speed, and usability.
 
-[Home & Menu](assets/2Home%20&%20Menu.jpg)
-[Home & Menu](assets/2Home%20&%20Menu.jpg)
+* [Video Demonstration](assets/2Home%20&%20Menu.jpg)
+* [See Dashboard Live Demo - (use mobile for best experience)](https://lookerstudio.google.com/reporting/13bc7260-f05c-473d-a61d-63586948beda)
 
 ## About
 * Raphael Levinder - Data Visualization Specialist & Analyst
