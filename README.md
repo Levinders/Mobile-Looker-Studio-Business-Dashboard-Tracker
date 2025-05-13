@@ -35,15 +35,15 @@ The dashboard covers:
 
 ![Overview](assets/3Overview.jpg)
 
-3. Delivery Agents Page – Monitor who delivered what, where, and when.
+2. Delivery Agents Page – Monitor who delivered what, where, and when.
 
 ![Delivery Agents](assets/4Delivery%20Agents.jpg)
 
-5. Remittance Page – Track outstanding payments, recent transactions, and delivery charges.
+3. Remittance Page – Track outstanding payments, recent transactions, and delivery charges.
 
 ![Remittance](assets/5Remittance.jpg)
 
-7. Others: Inventory & Orders Page – Show stock position, Order flow and reorder timeline - only visible to admin.
+4. Others: Inventory & Orders Page – Show stock position, Order flow and reorder timeline - only visible to admin.
 
 ## Why It Works
 * Built for Mobile – all of our team, including managers, use their phones during work. So, i designed the layout to fit smaller screens without compromising clarity.
